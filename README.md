@@ -1,4 +1,4 @@
-# gitExercise
+# Jedi Code
 2016-07-05 DSI Bootcamp Practice
 
-one potato
+There is no emotion, there is peace.
